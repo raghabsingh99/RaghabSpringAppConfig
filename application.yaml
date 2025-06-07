@@ -9,7 +9,7 @@ eureka:
 
 okta:
     oauth:
-       issuer: https://dev-76594027-admin.okta.com/oauth2/default
+       issuer: https://dev-76594027.okta.com/oauth2/default
        audience: api://default
       
 
